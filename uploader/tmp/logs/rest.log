@@ -1,0 +1,1227 @@
+2012-12-12 14:25:52 Rest: add
+2012-12-12 14:25:52 Rest: REQUEST_METHOD: POST
+2012-12-12 14:25:52 Rest: Array
+(
+    [0] => Array
+        (
+            [plugin] => 
+            [controller] => attachments
+            [action] => add
+            [named] => Array
+                (
+                )
+
+            [pass] => Array
+                (
+                )
+
+            [form] => Array
+                (
+                    [files] => Array
+                        (
+                            [name] => Array
+                                (
+                                    [0] => 05.jpg
+                                )
+
+                            [type] => Array
+                                (
+                                    [0] => image/jpeg
+                                )
+
+                            [tmp_name] => Array
+                                (
+                                    [0] => /tmp/phpEFNBDP
+                                )
+
+                            [error] => Array
+                                (
+                                    [0] => 0
+                                )
+
+                            [size] => Array
+                                (
+                                    [0] => 241135
+                                )
+
+                        )
+
+                )
+
+            [[method]] => POST
+        )
+
+    [1] => Array
+        (
+            [hello] => Hello, world!
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2012-12-12 14:25:52 Rest: Array
+(
+    [name] => Array
+        (
+            [0] => 05.jpg
+        )
+
+    [type] => Array
+        (
+            [0] => image/jpeg
+        )
+
+    [tmp_name] => Array
+        (
+            [0] => /tmp/phpEFNBDP
+        )
+
+    [error] => Array
+        (
+            [0] => 0
+        )
+
+    [size] => Array
+        (
+            [0] => 241135
+        )
+
+)
+
+2012-12-12 14:25:52 Rest: files
+2012-12-12 14:25:52 Rest: Array
+(
+    [hello] => Hello, world!
+)
+
+2012-12-12 14:25:52 Rest: Array
+(
+    [0] => AttachmentsController::__handleFileUpload
+    [1] => Array
+        (
+            [0] => /tmp/phpEFNBDP
+            [1] => 05.jpg
+            [2] => 241135
+            [3] => image/jpeg
+            [4] => 0
+            [5] => 0
+            [6] => 
+        )
+
+)
+
+2012-12-12 14:25:52 Rest: Array
+(
+    [0] => AttachmentsController::__isValidFile
+    [1] => Array
+        (
+            [0] => /tmp/phpEFNBDP
+            [1] => stdClass Object
+                (
+                    [name] => 20121212142552_135007e7085979a7d5b41ce54c0e54d7.jpg
+                    [orig_name] => 05.jpg
+                    [size] => 241135
+                    [type] => image/jpeg
+                )
+
+            [2] => 0
+            [3] => 0
+        )
+
+)
+
+2012-12-12 14:25:52 Rest: Array
+(
+    [0] => Attachment::createFile
+    [1] => stdClass Object
+        (
+            [name] => 20121212142552_135007e7085979a7d5b41ce54c0e54d7.jpg
+            [orig_name] => 05.jpg
+            [size] => 241135
+            [type] => image/jpeg
+            [path] => /var/www/media_uploader/webroot/files/20121212142552_135007e7085979a7d5b41ce54c0e54d7.jpg
+        )
+
+)
+
+2012-12-12 14:25:52 Rest: files
+2012-12-12 14:27:41 Rest: add
+2012-12-12 14:27:41 Rest: REQUEST_METHOD: POST
+2012-12-12 14:27:41 Rest: Array
+(
+    [0] => Array
+        (
+            [plugin] => 
+            [controller] => attachments
+            [action] => add
+            [named] => Array
+                (
+                )
+
+            [pass] => Array
+                (
+                )
+
+            [form] => Array
+                (
+                    [files] => Array
+                        (
+                            [name] => Array
+                                (
+                                    [0] => 05.jpg
+                                )
+
+                            [type] => Array
+                                (
+                                    [0] => image/jpeg
+                                )
+
+                            [tmp_name] => Array
+                                (
+                                    [0] => /tmp/php5uzmV4
+                                )
+
+                            [error] => Array
+                                (
+                                    [0] => 0
+                                )
+
+                            [size] => Array
+                                (
+                                    [0] => 241135
+                                )
+
+                        )
+
+                )
+
+            [[method]] => POST
+        )
+
+    [1] => Array
+        (
+            [hello] => Hello, world!
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2012-12-12 14:27:41 Rest: Array
+(
+    [name] => Array
+        (
+            [0] => 05.jpg
+        )
+
+    [type] => Array
+        (
+            [0] => image/jpeg
+        )
+
+    [tmp_name] => Array
+        (
+            [0] => /tmp/php5uzmV4
+        )
+
+    [error] => Array
+        (
+            [0] => 0
+        )
+
+    [size] => Array
+        (
+            [0] => 241135
+        )
+
+)
+
+2012-12-12 14:27:41 Rest: files
+2012-12-12 14:27:41 Rest: Array
+(
+    [hello] => Hello, world!
+)
+
+2012-12-12 14:27:41 Rest: Array
+(
+    [0] => AttachmentsController::__handleFileUpload
+    [1] => Array
+        (
+            [0] => /tmp/php5uzmV4
+            [1] => 05.jpg
+            [2] => 241135
+            [3] => image/jpeg
+            [4] => 0
+            [5] => 0
+            [6] => 
+        )
+
+)
+
+2012-12-12 14:27:41 Rest: Array
+(
+    [0] => AttachmentsController::__isValidFile
+    [1] => Array
+        (
+            [0] => /tmp/php5uzmV4
+            [1] => stdClass Object
+                (
+                    [name] => 20121212142741_135007e7085979a7d5b41ce54c0e54d7.jpg
+                    [orig_name] => 05.jpg
+                    [size] => 241135
+                    [type] => image/jpeg
+                )
+
+            [2] => 0
+            [3] => 0
+        )
+
+)
+
+2012-12-12 14:27:41 Rest: Array
+(
+    [0] => Attachment::createFile
+    [1] => stdClass Object
+        (
+            [name] => 20121212142741_135007e7085979a7d5b41ce54c0e54d7.jpg
+            [orig_name] => 05.jpg
+            [size] => 241135
+            [type] => image/jpeg
+            [path] => /var/www/media_uploader/webroot/files/20121212142741_135007e7085979a7d5b41ce54c0e54d7.jpg
+        )
+
+)
+
+2012-12-12 14:27:41 Rest: files
+2012-12-12 14:27:41 Rest: Array
+(
+    [0] => 637
+    [1] => stdClass Object
+        (
+            [name] => 20121212142741_135007e7085979a7d5b41ce54c0e54d7.jpg
+            [orig_name] => 05.jpg
+            [size] => 241135
+            [type] => image/jpeg
+            [path] => /var/www/media_uploader/webroot/files/20121212142741_135007e7085979a7d5b41ce54c0e54d7.jpg
+            [url] => http://npubdev.cafe24.com/media_uploader/files/20121212142741_135007e7085979a7d5b41ce54c0e54d7.jpg
+            [thumbnail_url] => http://npubdev.cafe24.com/media_uploader/files/thumbnail/20121212142741_135007e7085979a7d5b41ce54c0e54d7.jpg
+            [delete_url] => http://npubdev.cafe24.com/media_uploader/attachments?file=20121212142741_135007e7085979a7d5b41ce54c0e54d7.jpg
+            [delete_type] => DELETE
+        )
+
+)
+
+2012-12-12 14:29:58 Rest: add
+2012-12-12 14:29:58 Rest: REQUEST_METHOD: POST
+2012-12-12 14:29:58 Rest: Array
+(
+    [0] => Array
+        (
+            [plugin] => 
+            [controller] => attachments
+            [action] => add
+            [named] => Array
+                (
+                )
+
+            [pass] => Array
+                (
+                )
+
+            [form] => Array
+                (
+                    [files] => Array
+                        (
+                            [name] => Array
+                                (
+                                    [0] => 05.jpg
+                                )
+
+                            [type] => Array
+                                (
+                                    [0] => image/jpeg
+                                )
+
+                            [tmp_name] => Array
+                                (
+                                    [0] => /tmp/phpvVLhTl
+                                )
+
+                            [error] => Array
+                                (
+                                    [0] => 0
+                                )
+
+                            [size] => Array
+                                (
+                                    [0] => 241135
+                                )
+
+                        )
+
+                )
+
+            [[method]] => POST
+        )
+
+    [1] => Array
+        (
+            [hello] => Hello, world!
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2012-12-12 14:29:58 Rest: Array
+(
+    [name] => Array
+        (
+            [0] => 05.jpg
+        )
+
+    [type] => Array
+        (
+            [0] => image/jpeg
+        )
+
+    [tmp_name] => Array
+        (
+            [0] => /tmp/phpvVLhTl
+        )
+
+    [error] => Array
+        (
+            [0] => 0
+        )
+
+    [size] => Array
+        (
+            [0] => 241135
+        )
+
+)
+
+2012-12-12 14:29:58 Rest: files
+2012-12-12 14:29:58 Rest: Array
+(
+    [hello] => Hello, world!
+)
+
+2012-12-12 14:29:58 Rest: Array
+(
+    [0] => AttachmentsController::__handleFileUpload
+    [1] => Array
+        (
+            [0] => /tmp/phpvVLhTl
+            [1] => 05.jpg
+            [2] => 241135
+            [3] => image/jpeg
+            [4] => 0
+            [5] => 0
+            [6] => 
+        )
+
+)
+
+2012-12-12 14:29:58 Rest: Array
+(
+    [0] => AttachmentsController::__isValidFile
+    [1] => Array
+        (
+            [0] => /tmp/phpvVLhTl
+            [1] => stdClass Object
+                (
+                    [name] => 20121212142958_135007e7085979a7d5b41ce54c0e54d7.jpg
+                    [orig_name] => 05.jpg
+                    [size] => 241135
+                    [type] => image/jpeg
+                )
+
+            [2] => 0
+            [3] => 0
+        )
+
+)
+
+2012-12-12 14:29:58 Rest: Array
+(
+    [0] => Attachment::createFile
+    [1] => stdClass Object
+        (
+            [name] => 20121212142958_135007e7085979a7d5b41ce54c0e54d7.jpg
+            [orig_name] => 05.jpg
+            [size] => 241135
+            [type] => image/jpeg
+            [path] => /var/www/media_uploader/webroot/files/20121212142958_135007e7085979a7d5b41ce54c0e54d7.jpg
+        )
+
+)
+
+2012-12-12 14:29:58 Rest: files
+2012-12-12 14:29:58 Rest: Array
+(
+    [0] => 637
+    [1] => stdClass Object
+        (
+            [name] => 20121212142958_135007e7085979a7d5b41ce54c0e54d7.jpg
+            [orig_name] => 05.jpg
+            [size] => 241135
+            [type] => image/jpeg
+            [path] => /var/www/media_uploader/webroot/files/20121212142958_135007e7085979a7d5b41ce54c0e54d7.jpg
+            [url] => http://npubdev.cafe24.com/media_uploader/files/20121212142958_135007e7085979a7d5b41ce54c0e54d7.jpg
+            [thumbnail_url] => http://npubdev.cafe24.com/media_uploader/files/thumbnail/20121212142958_135007e7085979a7d5b41ce54c0e54d7.jpg
+            [delete_url] => http://npubdev.cafe24.com/media_uploader/attachments?file=20121212142958_135007e7085979a7d5b41ce54c0e54d7.jpg
+            [delete_type] => DELETE
+        )
+
+)
+
+2012-12-12 14:31:36 Rest: add
+2012-12-12 14:31:36 Rest: REQUEST_METHOD: POST
+2012-12-12 14:31:36 Rest: Array
+(
+    [0] => Array
+        (
+            [plugin] => 
+            [controller] => attachments
+            [action] => add
+            [named] => Array
+                (
+                )
+
+            [pass] => Array
+                (
+                )
+
+            [form] => Array
+                (
+                    [files] => Array
+                        (
+                            [name] => Array
+                                (
+                                    [0] => 2010-05-11_16%3B29%3B09.jpg
+                                )
+
+                            [type] => Array
+                                (
+                                    [0] => image/jpeg
+                                )
+
+                            [tmp_name] => Array
+                                (
+                                    [0] => /tmp/phpJwCMhZ
+                                )
+
+                            [error] => Array
+                                (
+                                    [0] => 0
+                                )
+
+                            [size] => Array
+                                (
+                                    [0] => 53308
+                                )
+
+                        )
+
+                )
+
+            [[method]] => POST
+        )
+
+    [1] => Array
+        (
+            [hello] => Hello, world!
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2012-12-12 14:31:36 Rest: Array
+(
+    [name] => Array
+        (
+            [0] => 2010-05-11_16%3B29%3B09.jpg
+        )
+
+    [type] => Array
+        (
+            [0] => image/jpeg
+        )
+
+    [tmp_name] => Array
+        (
+            [0] => /tmp/phpJwCMhZ
+        )
+
+    [error] => Array
+        (
+            [0] => 0
+        )
+
+    [size] => Array
+        (
+            [0] => 53308
+        )
+
+)
+
+2012-12-12 14:31:36 Rest: files
+2012-12-12 14:31:36 Rest: Array
+(
+    [hello] => Hello, world!
+)
+
+2012-12-12 14:31:36 Rest: Array
+(
+    [0] => AttachmentsController::__handleFileUpload
+    [1] => Array
+        (
+            [0] => /tmp/phpJwCMhZ
+            [1] => 2010-05-11_16%3B29%3B09.jpg
+            [2] => 53308
+            [3] => image/jpeg
+            [4] => 0
+            [5] => 0
+            [6] => 
+        )
+
+)
+
+2012-12-12 14:31:36 Rest: Array
+(
+    [0] => AttachmentsController::__isValidFile
+    [1] => Array
+        (
+            [0] => /tmp/phpJwCMhZ
+            [1] => stdClass Object
+                (
+                    [name] => 20121212143136_d50a1c5e94b7a72296eedb4a0e0db2ad.jpg
+                    [orig_name] => 2010-05-11_16%3B29%3B09.jpg
+                    [size] => 53308
+                    [type] => image/jpeg
+                )
+
+            [2] => 0
+            [3] => 0
+        )
+
+)
+
+2012-12-12 14:31:36 Rest: Array
+(
+    [0] => Attachment::createFile
+    [1] => stdClass Object
+        (
+            [name] => 20121212143136_d50a1c5e94b7a72296eedb4a0e0db2ad.jpg
+            [orig_name] => 2010-05-11_16%3B29%3B09.jpg
+            [size] => 53308
+            [type] => image/jpeg
+            [path] => /var/www/media_uploader/webroot/files/20121212143136_d50a1c5e94b7a72296eedb4a0e0db2ad.jpg
+        )
+
+)
+
+2012-12-12 14:31:36 Rest: files
+2012-12-12 14:31:36 Rest: Array
+(
+    [0] => 637
+    [1] => stdClass Object
+        (
+            [name] => 20121212143136_d50a1c5e94b7a72296eedb4a0e0db2ad.jpg
+            [orig_name] => 2010-05-11_16%3B29%3B09.jpg
+            [size] => 53308
+            [type] => image/jpeg
+            [path] => /var/www/media_uploader/webroot/files/20121212143136_d50a1c5e94b7a72296eedb4a0e0db2ad.jpg
+            [url] => http://npubdev.cafe24.com/media_uploader/files/20121212143136_d50a1c5e94b7a72296eedb4a0e0db2ad.jpg
+            [thumbnail_url] => http://npubdev.cafe24.com/media_uploader/files/thumbnail/20121212143136_d50a1c5e94b7a72296eedb4a0e0db2ad.jpg
+            [delete_url] => http://npubdev.cafe24.com/media_uploader/attachments?file=20121212143136_d50a1c5e94b7a72296eedb4a0e0db2ad.jpg
+            [delete_type] => DELETE
+        )
+
+)
+
+2012-12-12 14:32:51 Rest: add
+2012-12-12 14:32:51 Rest: REQUEST_METHOD: POST
+2012-12-12 14:32:51 Rest: Array
+(
+    [0] => Array
+        (
+            [plugin] => 
+            [controller] => attachments
+            [action] => add
+            [named] => Array
+                (
+                )
+
+            [pass] => Array
+                (
+                )
+
+            [form] => Array
+                (
+                    [files] => Array
+                        (
+                            [name] => Array
+                                (
+                                    [0] => 05-001.jpg
+                                )
+
+                            [type] => Array
+                                (
+                                    [0] => image/jpeg
+                                )
+
+                            [tmp_name] => Array
+                                (
+                                    [0] => /tmp/phpTQmOQZ
+                                )
+
+                            [error] => Array
+                                (
+                                    [0] => 0
+                                )
+
+                            [size] => Array
+                                (
+                                    [0] => 441695
+                                )
+
+                        )
+
+                )
+
+            [[method]] => POST
+        )
+
+    [1] => Array
+        (
+            [hello] => Hello, world!
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2012-12-12 14:32:51 Rest: Array
+(
+    [name] => Array
+        (
+            [0] => 05-001.jpg
+        )
+
+    [type] => Array
+        (
+            [0] => image/jpeg
+        )
+
+    [tmp_name] => Array
+        (
+            [0] => /tmp/phpTQmOQZ
+        )
+
+    [error] => Array
+        (
+            [0] => 0
+        )
+
+    [size] => Array
+        (
+            [0] => 441695
+        )
+
+)
+
+2012-12-12 14:32:51 Rest: files
+2012-12-12 14:32:51 Rest: Array
+(
+    [hello] => Hello, world!
+)
+
+2012-12-12 14:32:51 Rest: Array
+(
+    [0] => AttachmentsController::__handleFileUpload
+    [1] => Array
+        (
+            [0] => /tmp/phpTQmOQZ
+            [1] => 05-001.jpg
+            [2] => 441695
+            [3] => image/jpeg
+            [4] => 0
+            [5] => 0
+            [6] => 
+        )
+
+)
+
+2012-12-12 14:32:51 Rest: Array
+(
+    [0] => AttachmentsController::__isValidFile
+    [1] => Array
+        (
+            [0] => /tmp/phpTQmOQZ
+            [1] => stdClass Object
+                (
+                    [name] => 20121212143251_0ba8a0f9db33c31a056a86ddcaae82cf.jpg
+                    [orig_name] => 05-001.jpg
+                    [size] => 441695
+                    [type] => image/jpeg
+                )
+
+            [2] => 0
+            [3] => 0
+        )
+
+)
+
+2012-12-12 14:32:51 Rest: Array
+(
+    [0] => Attachment::createFile
+    [1] => stdClass Object
+        (
+            [name] => 20121212143251_0ba8a0f9db33c31a056a86ddcaae82cf.jpg
+            [orig_name] => 05-001.jpg
+            [size] => 441695
+            [type] => image/jpeg
+            [path] => /var/www/media_uploader/webroot/files/20121212143251_0ba8a0f9db33c31a056a86ddcaae82cf.jpg
+        )
+
+)
+
+2012-12-12 14:32:51 Rest: files
+2012-12-12 14:32:51 Rest: Array
+(
+    [0] => 637
+    [1] => stdClass Object
+        (
+            [name] => 20121212143251_0ba8a0f9db33c31a056a86ddcaae82cf.jpg
+            [orig_name] => 05-001.jpg
+            [size] => 441695
+            [type] => image/jpeg
+            [path] => /var/www/media_uploader/webroot/files/20121212143251_0ba8a0f9db33c31a056a86ddcaae82cf.jpg
+            [url] => http://npubdev.cafe24.com/media_uploader/files/20121212143251_0ba8a0f9db33c31a056a86ddcaae82cf.jpg
+            [thumbnail_url] => http://npubdev.cafe24.com/media_uploader/files/thumbnail/20121212143251_0ba8a0f9db33c31a056a86ddcaae82cf.jpg
+            [delete_url] => http://npubdev.cafe24.com/media_uploader/attachments?file=20121212143251_0ba8a0f9db33c31a056a86ddcaae82cf.jpg
+            [delete_type] => DELETE
+        )
+
+)
+
+2012-12-12 14:35:29 Rest: add
+2012-12-12 14:35:29 Rest: REQUEST_METHOD: POST
+2012-12-12 14:35:29 Rest: Array
+(
+    [0] => Array
+        (
+            [plugin] => 
+            [controller] => attachments
+            [action] => add
+            [named] => Array
+                (
+                )
+
+            [pass] => Array
+                (
+                )
+
+            [form] => Array
+                (
+                    [files] => Array
+                        (
+                            [name] => Array
+                                (
+                                    [0] => 2010-05-11_16%3B29%3B04.jpg
+                                    [1] => 2010-05-11_16%3B29%3B09.jpg
+                                    [2] => 16136_221537107224_191514302224_2868084_1002616_n.jpg
+                                    [3] => 16757-0.jpg
+                                )
+
+                            [type] => Array
+                                (
+                                    [0] => image/jpeg
+                                    [1] => image/jpeg
+                                    [2] => image/jpeg
+                                    [3] => image/jpeg
+                                )
+
+                            [tmp_name] => Array
+                                (
+                                    [0] => /tmp/phpPizgvE
+                                    [1] => /tmp/phpb3vxeC
+                                    [2] => /tmp/phpE4KdZz
+                                    [3] => /tmp/phpgv55Kx
+                                )
+
+                            [error] => Array
+                                (
+                                    [0] => 0
+                                    [1] => 0
+                                    [2] => 0
+                                    [3] => 0
+                                )
+
+                            [size] => Array
+                                (
+                                    [0] => 60349
+                                    [1] => 53308
+                                    [2] => 55070
+                                    [3] => 158031
+                                )
+
+                        )
+
+                )
+
+            [[method]] => POST
+        )
+
+    [1] => Array
+        (
+            [hello] => Hello, world!
+        )
+
+    [2] => Array
+        (
+        )
+
+)
+
+2012-12-12 14:35:29 Rest: Array
+(
+    [name] => Array
+        (
+            [0] => 2010-05-11_16%3B29%3B04.jpg
+            [1] => 2010-05-11_16%3B29%3B09.jpg
+            [2] => 16136_221537107224_191514302224_2868084_1002616_n.jpg
+            [3] => 16757-0.jpg
+        )
+
+    [type] => Array
+        (
+            [0] => image/jpeg
+            [1] => image/jpeg
+            [2] => image/jpeg
+            [3] => image/jpeg
+        )
+
+    [tmp_name] => Array
+        (
+            [0] => /tmp/phpPizgvE
+            [1] => /tmp/phpb3vxeC
+            [2] => /tmp/phpE4KdZz
+            [3] => /tmp/phpgv55Kx
+        )
+
+    [error] => Array
+        (
+            [0] => 0
+            [1] => 0
+            [2] => 0
+            [3] => 0
+        )
+
+    [size] => Array
+        (
+            [0] => 60349
+            [1] => 53308
+            [2] => 55070
+            [3] => 158031
+        )
+
+)
+
+2012-12-12 14:35:29 Rest: files
+2012-12-12 14:35:29 Rest: Array
+(
+    [hello] => Hello, world!
+)
+
+2012-12-12 14:35:29 Rest: Array
+(
+    [0] => AttachmentsController::__handleFileUpload
+    [1] => Array
+        (
+            [0] => /tmp/phpPizgvE
+            [1] => 2010-05-11_16%3B29%3B04.jpg
+            [2] => 60349
+            [3] => image/jpeg
+            [4] => 0
+            [5] => 0
+            [6] => 
+        )
+
+)
+
+2012-12-12 14:35:29 Rest: Array
+(
+    [0] => AttachmentsController::__isValidFile
+    [1] => Array
+        (
+            [0] => /tmp/phpPizgvE
+            [1] => stdClass Object
+                (
+                    [name] => 20121212143529_335128122046dcd2a1f2a6fea0ce28a1.jpg
+                    [orig_name] => 2010-05-11_16%3B29%3B04.jpg
+                    [size] => 60349
+                    [type] => image/jpeg
+                )
+
+            [2] => 0
+            [3] => 0
+        )
+
+)
+
+2012-12-12 14:35:29 Rest: Array
+(
+    [0] => Attachment::createFile
+    [1] => stdClass Object
+        (
+            [name] => 20121212143529_335128122046dcd2a1f2a6fea0ce28a1.jpg
+            [orig_name] => 2010-05-11_16%3B29%3B04.jpg
+            [size] => 60349
+            [type] => image/jpeg
+            [path] => /var/www/media_uploader/webroot/files/20121212143529_335128122046dcd2a1f2a6fea0ce28a1.jpg
+        )
+
+)
+
+2012-12-12 14:35:29 Rest: files
+2012-12-12 14:35:29 Rest: Array
+(
+    [0] => 637
+    [1] => stdClass Object
+        (
+            [name] => 20121212143529_335128122046dcd2a1f2a6fea0ce28a1.jpg
+            [orig_name] => 2010-05-11_16%3B29%3B04.jpg
+            [size] => 60349
+            [type] => image/jpeg
+            [path] => /var/www/media_uploader/webroot/files/20121212143529_335128122046dcd2a1f2a6fea0ce28a1.jpg
+            [url] => http://npubdev.cafe24.com/media_uploader/files/20121212143529_335128122046dcd2a1f2a6fea0ce28a1.jpg
+            [thumbnail_url] => http://npubdev.cafe24.com/media_uploader/files/thumbnail/20121212143529_335128122046dcd2a1f2a6fea0ce28a1.jpg
+            [delete_url] => http://npubdev.cafe24.com/media_uploader/attachments?file=20121212143529_335128122046dcd2a1f2a6fea0ce28a1.jpg
+            [delete_type] => DELETE
+        )
+
+)
+
+2012-12-12 14:35:29 Rest: Array
+(
+    [0] => AttachmentsController::__handleFileUpload
+    [1] => Array
+        (
+            [0] => /tmp/phpb3vxeC
+            [1] => 2010-05-11_16%3B29%3B09.jpg
+            [2] => 53308
+            [3] => image/jpeg
+            [4] => 0
+            [5] => 1
+            [6] => 
+        )
+
+)
+
+2012-12-12 14:35:29 Rest: Array
+(
+    [0] => AttachmentsController::__isValidFile
+    [1] => Array
+        (
+            [0] => /tmp/phpb3vxeC
+            [1] => stdClass Object
+                (
+                    [name] => 20121212143529_d50a1c5e94b7a72296eedb4a0e0db2ad.jpg
+                    [orig_name] => 2010-05-11_16%3B29%3B09.jpg
+                    [size] => 53308
+                    [type] => image/jpeg
+                )
+
+            [2] => 0
+            [3] => 1
+        )
+
+)
+
+2012-12-12 14:35:29 Rest: Array
+(
+    [0] => Attachment::createFile
+    [1] => stdClass Object
+        (
+            [name] => 20121212143529_d50a1c5e94b7a72296eedb4a0e0db2ad.jpg
+            [orig_name] => 2010-05-11_16%3B29%3B09.jpg
+            [size] => 53308
+            [type] => image/jpeg
+            [path] => /var/www/media_uploader/webroot/files/20121212143529_d50a1c5e94b7a72296eedb4a0e0db2ad.jpg
+        )
+
+)
+
+2012-12-12 14:35:29 Rest: files
+2012-12-12 14:35:29 Rest: Array
+(
+    [0] => 637
+    [1] => stdClass Object
+        (
+            [name] => 20121212143529_d50a1c5e94b7a72296eedb4a0e0db2ad.jpg
+            [orig_name] => 2010-05-11_16%3B29%3B09.jpg
+            [size] => 53308
+            [type] => image/jpeg
+            [path] => /var/www/media_uploader/webroot/files/20121212143529_d50a1c5e94b7a72296eedb4a0e0db2ad.jpg
+            [url] => http://npubdev.cafe24.com/media_uploader/files/20121212143529_d50a1c5e94b7a72296eedb4a0e0db2ad.jpg
+            [thumbnail_url] => http://npubdev.cafe24.com/media_uploader/files/thumbnail/20121212143529_d50a1c5e94b7a72296eedb4a0e0db2ad.jpg
+            [delete_url] => http://npubdev.cafe24.com/media_uploader/attachments?file=20121212143529_d50a1c5e94b7a72296eedb4a0e0db2ad.jpg
+            [delete_type] => DELETE
+        )
+
+)
+
+2012-12-12 14:35:29 Rest: Array
+(
+    [0] => AttachmentsController::__handleFileUpload
+    [1] => Array
+        (
+            [0] => /tmp/phpE4KdZz
+            [1] => 16136_221537107224_191514302224_2868084_1002616_n.jpg
+            [2] => 55070
+            [3] => image/jpeg
+            [4] => 0
+            [5] => 2
+            [6] => 
+        )
+
+)
+
+2012-12-12 14:35:29 Rest: Array
+(
+    [0] => AttachmentsController::__isValidFile
+    [1] => Array
+        (
+            [0] => /tmp/phpE4KdZz
+            [1] => stdClass Object
+                (
+                    [name] => 20121212143529_3b0f63c7aa8ce49a7aea7e30619d561f.jpg
+                    [orig_name] => 16136_221537107224_191514302224_2868084_1002616_n.jpg
+                    [size] => 55070
+                    [type] => image/jpeg
+                )
+
+            [2] => 0
+            [3] => 2
+        )
+
+)
+
+2012-12-12 14:35:29 Rest: Array
+(
+    [0] => Attachment::createFile
+    [1] => stdClass Object
+        (
+            [name] => 20121212143529_3b0f63c7aa8ce49a7aea7e30619d561f.jpg
+            [orig_name] => 16136_221537107224_191514302224_2868084_1002616_n.jpg
+            [size] => 55070
+            [type] => image/jpeg
+            [path] => /var/www/media_uploader/webroot/files/20121212143529_3b0f63c7aa8ce49a7aea7e30619d561f.jpg
+        )
+
+)
+
+2012-12-12 14:35:29 Rest: files
+2012-12-12 14:35:29 Rest: Array
+(
+    [0] => 637
+    [1] => stdClass Object
+        (
+            [name] => 20121212143529_3b0f63c7aa8ce49a7aea7e30619d561f.jpg
+            [orig_name] => 16136_221537107224_191514302224_2868084_1002616_n.jpg
+            [size] => 55070
+            [type] => image/jpeg
+            [path] => /var/www/media_uploader/webroot/files/20121212143529_3b0f63c7aa8ce49a7aea7e30619d561f.jpg
+            [url] => http://npubdev.cafe24.com/media_uploader/files/20121212143529_3b0f63c7aa8ce49a7aea7e30619d561f.jpg
+            [thumbnail_url] => http://npubdev.cafe24.com/media_uploader/files/thumbnail/20121212143529_3b0f63c7aa8ce49a7aea7e30619d561f.jpg
+            [delete_url] => http://npubdev.cafe24.com/media_uploader/attachments?file=20121212143529_3b0f63c7aa8ce49a7aea7e30619d561f.jpg
+            [delete_type] => DELETE
+        )
+
+)
+
+2012-12-12 14:35:29 Rest: Array
+(
+    [0] => AttachmentsController::__handleFileUpload
+    [1] => Array
+        (
+            [0] => /tmp/phpgv55Kx
+            [1] => 16757-0.jpg
+            [2] => 158031
+            [3] => image/jpeg
+            [4] => 0
+            [5] => 3
+            [6] => 
+        )
+
+)
+
+2012-12-12 14:35:29 Rest: Array
+(
+    [0] => AttachmentsController::__isValidFile
+    [1] => Array
+        (
+            [0] => /tmp/phpgv55Kx
+            [1] => stdClass Object
+                (
+                    [name] => 20121212143529_5df0a7130b5c1d0fd441dff24b397179.jpg
+                    [orig_name] => 16757-0.jpg
+                    [size] => 158031
+                    [type] => image/jpeg
+                )
+
+            [2] => 0
+            [3] => 3
+        )
+
+)
+
+2012-12-12 14:35:29 Rest: Array
+(
+    [0] => Attachment::createFile
+    [1] => stdClass Object
+        (
+            [name] => 20121212143529_5df0a7130b5c1d0fd441dff24b397179.jpg
+            [orig_name] => 16757-0.jpg
+            [size] => 158031
+            [type] => image/jpeg
+            [path] => /var/www/media_uploader/webroot/files/20121212143529_5df0a7130b5c1d0fd441dff24b397179.jpg
+        )
+
+)
+
+2012-12-12 14:35:29 Rest: files
+2012-12-12 14:35:29 Rest: Array
+(
+    [0] => 637
+    [1] => stdClass Object
+        (
+            [name] => 20121212143529_5df0a7130b5c1d0fd441dff24b397179.jpg
+            [orig_name] => 16757-0.jpg
+            [size] => 158031
+            [type] => image/jpeg
+            [path] => /var/www/media_uploader/webroot/files/20121212143529_5df0a7130b5c1d0fd441dff24b397179.jpg
+            [url] => http://npubdev.cafe24.com/media_uploader/files/20121212143529_5df0a7130b5c1d0fd441dff24b397179.jpg
+            [thumbnail_url] => http://npubdev.cafe24.com/media_uploader/files/thumbnail/20121212143529_5df0a7130b5c1d0fd441dff24b397179.jpg
+            [delete_url] => http://npubdev.cafe24.com/media_uploader/attachments?file=20121212143529_5df0a7130b5c1d0fd441dff24b397179.jpg
+            [delete_type] => DELETE
+        )
+
+)
+
